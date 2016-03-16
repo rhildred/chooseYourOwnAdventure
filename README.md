@@ -1,2 +1,3 @@
-# chooseYourOwnAdventure
-A start at a choose your own adventure with jQuery mobile ... see it in action [here](https://rhildred.github.io/chooseYourOwnAdventure)
+# [chooseYourOwnAdventure](https://github.com/rhildred/chooseYourOwnAdventure)
+
+I wanted to make a better javascript scripting example than my [controlStructures example](https://github.com/rhildred/javascriptscripting) for my MB115 class. Since some of you are in the games development program, I decided to build on the choose your own adventure theme from [twinery.org](https://twinery.org/). This is a way to write a choose your own adventure game using ordinary html and javascript.
